@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "puppeteer": "^1.7.0",
+    "should": "^13.2.3"
+  },
+  "name": "task_19",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "me",
+  "license": "MIT"
+}
